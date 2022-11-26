@@ -1,4 +1,4 @@
-# silica-ios-leapstitch
+# Mobile App
 
 ## How to run
 - Step 1 (only if not done before): run `yarn` from root of the app to install js packages
