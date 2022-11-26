@@ -1,0 +1,4 @@
+/venv/
+.idea
+/media/
+/api/trained_models/
